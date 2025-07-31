@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Ferreyra</h1>
-<h3 align="center">Full-Stack Web Developer🌟.</h3>
+<h3 align="center">Backend Developer🌟.</h3>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <p><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="leoferreyra-01" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning API Development and other programming languages
 
 - 📫 How to reach me **leo.ferreyra060@gmail.com**
 
